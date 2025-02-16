@@ -15,14 +15,14 @@ a.white-mode:active {
     font-size: 12px;
     text-decoration: none;
     padding: 4px 8px;
-    color: #f7f7f7;
+    color: #000000;
 }
 
 a.white-mode:hover,
 a.white-mode:link:hover,
 a.white-mode:visited:hover,
 a.white-mode:active:hover {
-    background: #edf3f8;
+    background: #000000;
     color: #212121;
 }
 
